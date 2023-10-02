@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=哔哩哔哩下载器
+Icon=/usr/local/BBDown-Flet-GUI/icon.svg
+Exec="/usr/local/BBDown-Flet-GUI/GUI"
+# 该应用的提示
+Comment=一个为BBDown设计的图形界面程序
+Categories=Tools;
+Terminal=false
